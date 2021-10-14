@@ -1,7 +1,7 @@
 {
   "name": "pruebas",
   "version": "1.0.0",
-  "description": "version final interpolacion",
+  "description": "version final-interpolacion",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
