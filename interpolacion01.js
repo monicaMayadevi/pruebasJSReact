@@ -1,4 +1,4 @@
-//Autor Mónica Silva
+//Autor Mónica Silvaeat
  nombre = "Monica"
 const apellido = "Silva"
 const pais = "Mexico"
