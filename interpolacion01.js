@@ -1,4 +1,5 @@
-const nombre = "Monica"
+//Autor Mónica Silva
+ nombre = "Monica"
 const apellido = "Silva"
 const pais = "Mexico"
 
