@@ -1,5 +1,7 @@
+
 //Autor Mónica Silvaeat
- nombre = "Monica"
+
+const nombre = "Monica"
 const apellido = "Silva"
 const pais = "Mexico"
 
