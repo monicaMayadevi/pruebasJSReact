@@ -1,4 +1,6 @@
-//cambio si
+
+//Autor Mónica Silvaeat
+
 const nombre = "Monica"
 const apellido = "Silva"
 const pais = "Mexico"

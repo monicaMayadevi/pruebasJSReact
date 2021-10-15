@@ -1,4 +1,5 @@
-//pequeño cambio
+
+//Autor Monica Silva
 const sql = `
 SELECT * FROM cursos
 WHERE id=10
