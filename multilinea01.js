@@ -1,4 +1,3 @@
-
 //Autor Monica Silva
 const sql = `
 SELECT * FROM cursos
